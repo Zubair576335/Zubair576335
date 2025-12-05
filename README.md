@@ -22,7 +22,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="120" />
+<img align="right" src="./assets/Chainstarters.gif" width="120" />
 
 Hey! I'm a passionate developer who loves turning wild ideas into reality ✨
 
