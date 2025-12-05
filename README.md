@@ -1,62 +1,94 @@
-## Hey there! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=Zubair576335&color=22d3ee&style=flat-square)
-
-<img src="assets/wave-top.svg" width="100%">
-
-### About Me
-
-* 💻 I'm **Zubair Khan**, Full Stack Developer specializing in AI-powered web applications
-* 🚀 Currently building [SVG Generator](https://svg-generator-blond.vercel.app/) - An AI-driven tool for creating vector graphics
-* 🌱 Passionate about React, TypeScript, and integrating AI into modern web experiences
-* ⚡ Love creating tools that make developers' lives easier
-
-<img src="assets/wave-middle.svg" width="100%">
-
-## Connect With Me
-
-| **Where to Find Me** | **Links** |
-|---------------------|-----------|
-| Professional & Social | <a href="mailto:khan576335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square"></a> <a href="https://www.linkedin.com/in/zubair-khan-a723892b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"></a> |
-| Projects & Code | <a href="https://github.com/Zubair576335"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"></a> <a href="https://svg-generator-blond.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-SVG_Generator-22d3ee?style=flat-square&logo=vercel&logoColor=white"></a> |
-
-<img src="assets/wave-middle.svg" width="100%">
-
-## Tech Stack
-
-```javascript
-const skills = {
-    frontend: ['React', 'TypeScript', 'Vite', 'HTML/CSS'],
-    backend: ['Node.js'],
-    ai: ['Google Gemini API', 'AI Integration'],
-    tools: ['Git', 'Vercel', 'npm'],
-    currentlyLearning: ['Advanced React Patterns', 'AI/ML Integration']
-};
-```
-
-## Featured Project
-
-### 🎨 [SVG Generator](https://github.com/Zubair576335/svg-generator)
-An AI-powered web application that transforms natural language descriptions into beautiful, production-ready SVG graphics. Built with React, TypeScript, and Google Gemini AI.
-
-**[Live Demo →](https://svg-generator-blond.vercel.app/)**
-
-<img src="assets/wave-middle.svg" width="100%">
-
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zubair576335&theme=dark&hide_border=true&background=0D1117&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Zubair576335&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff" width="49%" />
+  <a href="https://github.com/Zubair576335">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=200&section=header&text=Hey,%20World!%20I'm%20Zubair%20Khan&fontSize=40&fontColor=f0f0f5&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Integration%20•%20Gen%20AI%20•%20Java&descSize=18&descAlignY=55" alt="Header" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair576335&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zubair576335&theme=github-compact&hide_border=true&bg_color=0D1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=22d3ee" width="49%" />
+  <img src="https://komarev.com/ghpvc/?username=Zubair576335&label=Profile%20views&color=7745bf" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Zubair576335?style=flat&logo=github&label=Followers&color=7c60d1" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Zubair576335?style=flat&logo=github&label=Stars&color=fd7cff" alt="Stars"/>
 </p>
-
-<img src="assets/wave-bottom.svg" width="100%">
 
 <p align="center">
-  <i>Let's build something amazing together!</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C60D1&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Development;Gen+AI+%26+LLM+Integration;Java+%7C+React+%7C+TypeScript;Building+AI-Powered+Solutions" alt="Typing SVG" />
 </p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="120" />
+
+Hey! I'm a passionate developer who loves turning wild ideas into reality ✨
+
+I'm all about **Gen AI** — whether it's building smart apps, integrating LLMs, or just experimenting with what's possible. Java is my backbone, but I'm always picking up new tools to solve real problems.
+
+Currently obsessed with making AI actually *useful* — check out my [SVG Generator](https://svg-generator-blond.vercel.app/) where you can create graphics just by describing them. Pretty cool, right?
+
+**Always learning. Always building. Always shipping.** 🚀
+
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,react,typescript,python,nodejs,git,vscode&theme=dark" alt="Tech Stack"/></a>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<p align="center">
+  <a href="mailto:khan576335@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zubair-khan-a723892b5/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://svg-generator-blond.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-purple?style=flat&logo=Vercel&logoColor=white"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Stats
+
+<p align="center">
+  <img src="https://profile-cards-one.vercel.app/api/cards/profile-details?username=Zubair576335&theme=midnight_purple" alt="Profile Details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-cards-one.vercel.app/api/cards/repos-per-language?username=Zubair576335&theme=midnight_purple" width="49%" alt="Repos per Language"/>
+  <img src="https://profile-cards-one.vercel.app/api/cards/most-commit-language?username=Zubair576335&theme=midnight_purple" width="49%" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://profile-cards-one.vercel.app/api/cards/stats?username=Zubair576335&theme=midnight_purple" width="49%" alt="GitHub Stats"/>
+  <img src="https://profile-cards-one.vercel.app/api/cards/productive-time?username=Zubair576335&theme=midnight_purple&utcOffset=8" width="49%" alt="Productive Time"/>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="50" />
+</p>
+
+<h3 align="center">Let's build something amazing together!</h3>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=120&section=footer" alt="footer"/>
